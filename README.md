@@ -37,7 +37,7 @@ This is a **responsive e-commerce website** inspired by Amazon's design, offerin
 ## 🔧 Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sanghanihimanshi/Amazon_Clone.git
 2. **Open the project** in your code editor.
 3. Open the `index.html` file in your browser to view the website.
 
