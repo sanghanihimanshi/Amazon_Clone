@@ -49,6 +49,7 @@ This is a **responsive e-commerce website** inspired by Amazon's design, offerin
 - Add **JavaScript** functionality for interactivity.
 
 ---
+## 📫 Let's Connect! 
 - [GitHub](https://github.com/sanghanihimanshi)
 - [LinkedIn](https://www.linkedin.com/in/sanghani-himanshi-3b3832280/)
 - [Email](sanghanihimanshi160@gmail.com)
